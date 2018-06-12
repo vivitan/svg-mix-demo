@@ -1,0 +1,6 @@
+@import "tem.css";
+
+/*importcss*/
+body{
+    background-image: url("images/vinyls.svg?fill=#ff0000");
+}

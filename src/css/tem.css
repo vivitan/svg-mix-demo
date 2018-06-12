@@ -1,0 +1,6 @@
+.test{
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-image: url("images/vinyls.svg?fill=#00ff00");
+}
